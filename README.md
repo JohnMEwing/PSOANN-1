@@ -1,4 +1,7 @@
-##Particle Swarm Optimization to train an neural network 
+##Swarm Net
+
+![alt text](https://github.com/jyopari/PSOANN/blob/master/logo/logo.png)
+
 Using Particle Swarm Optimization (PSO) to train a Neural Network of any type
 
 ##Authors
